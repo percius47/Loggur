@@ -1,0 +1,15 @@
+{
+    "name": "loggur.js",
+    "version": "1.0.0",
+    "license": "MIT",
+
+    "author": "Prashant Singh Chauhan",
+    "keywords": ["prettier log","console.log","log"],
+    "main": "log.js",
+    "files": [
+        "package.json"
+    ],
+    "dependencies": {
+        "moment": "^2.22.0"
+    }
+}
